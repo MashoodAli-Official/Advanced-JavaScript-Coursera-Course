@@ -8,3 +8,6 @@ The Ternary Operator is the alternate of If-Else statement (code example 1). If 
 
 ### The Switch Statement
 The switch statement is used to perform different actions based on different conditions. We can select the one of the many options using switch statement.
+
+### Object Destructuring
+Object destructuring lets you take values out of an object and put them straight into variables, like unpacking a box neatly.
